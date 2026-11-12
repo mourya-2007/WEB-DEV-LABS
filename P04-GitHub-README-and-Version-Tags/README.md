@@ -22,4 +22,4 @@ git tag
 
 **Output:** GitHub displays the README and the version tag appears under Tags.
 
-**Screenshot:** Save a screenshot of the README or Tags page in the `output` folder.
+**Screenshot:** Attach your screenshot of the README or Tags page directly to this practical folder when ready.

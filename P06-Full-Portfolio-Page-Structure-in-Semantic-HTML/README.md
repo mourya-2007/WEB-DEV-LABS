@@ -8,4 +8,4 @@
 
 **Output:** A basic personal portfolio page with all four sections.
 
-**Screenshot:** Open `index.html` in a browser and save the actual result in the `output` folder.
+**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.

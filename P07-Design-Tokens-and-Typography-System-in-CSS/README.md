@@ -8,4 +8,4 @@
 
 **Output:** A page with consistent colours, spacing and typography.
 
-**Screenshot:** Open `index.html` in a browser and save the actual result in the `output` folder.
+**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.

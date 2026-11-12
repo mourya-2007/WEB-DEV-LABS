@@ -21,4 +21,4 @@ git push -u origin main
 
 **Note:** Replace the URL with your own repository URL. Do not run `git init` again inside an already cloned repository.
 
-**Screenshot:** Save a screenshot of the successful commit or GitHub repository in the `output` folder.
+**Screenshot:** Attach your screenshot of the commit or GitHub repository directly to this practical folder when ready.

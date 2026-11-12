@@ -8,4 +8,4 @@
 
 **Output:** Header and footer content aligned neatly.
 
-**Screenshot:** Save the actual browser result in the `output` folder.
+**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.

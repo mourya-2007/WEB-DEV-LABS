@@ -1,6 +1,6 @@
 # Web Development Lab — Practical Index
 
-Each practical is a separate folder in the repository root. Open a folder to find its program files and screenshot location.
+Each practical is a separate folder in the repository root. Open a folder to find its README and program files.
 
 ## Module 1 — Terminal, Git & GitHub (P01–P04)
 
@@ -24,6 +24,4 @@ Each practical is a separate folder in the repository root. Open a folder to fin
 12. [P12-Portfolio-Projects-Grid-with-Advanced-CSS-Grid](<P12-Portfolio-Projects-Grid-with-Advanced-CSS-Grid/README.md>)
 13. [P13-Choosing-Between-Flexbox-and-Grid-for-a-Shared-Layout](<P13-Choosing-Between-Flexbox-and-Grid-for-a-Shared-Layout/README.md>)
 
-## Screenshots
-
-Every practical has an `output` folder. Save your own screenshots there after running the practical. For responsive practicals, include desktop and mobile screenshots.
+Screenshots can be added directly to their practical folder when ready.

@@ -8,4 +8,4 @@
 
 **Output:** A project gallery with a featured card and responsive columns.
 
-**Screenshot:** Save the actual browser result in the `output` folder.
+**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.

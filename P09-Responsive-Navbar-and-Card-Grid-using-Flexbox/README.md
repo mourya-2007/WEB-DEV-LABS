@@ -8,4 +8,4 @@
 
 **Output:** The layout fits a desktop and a small mobile screen.
 
-**Screenshot:** Save both desktop and mobile browser screenshots in the `output` folder.
+**Screenshot:** Attach desktop and mobile browser screenshots directly to this practical folder when ready.

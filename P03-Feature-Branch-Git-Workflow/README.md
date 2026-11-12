@@ -15,4 +15,4 @@ git push -u origin feature/my-change
 
 **Output:** A feature branch and a merged Pull Request.
 
-**Screenshot:** Save a screenshot of your Pull Request in the `output` folder.
+**Screenshot:** Attach your Pull Request screenshot directly to this practical folder when ready.

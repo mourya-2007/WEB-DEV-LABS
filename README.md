@@ -10,17 +10,16 @@ Web Development Lab assignment — 13 simple practicals in the same order as the
 
 ## Folder structure
 
-Each practical has its own descriptive folder at the repository root. The program files are directly inside the practical folder. For example:
+Each practical has one descriptive folder directly inside the repository. The program files are directly inside that practical folder. For example:
 
 ```text
 P12-Portfolio-Projects-Grid-with-Advanced-CSS-Grid/
 ├── README.md
 ├── index.html
-├── style.css
-└── output/
+└── style.css
 ```
 
-Practical folders use the same pattern. P01–P04 contain Terminal/Git instructions instead of HTML/CSS programs. P09 also includes `script.js`.
+P01–P04 contain Terminal/Git instructions instead of HTML/CSS programs. P09 also includes `script.js`.
 
 ## Practical index
 
@@ -28,4 +27,4 @@ See [PRACTICAL-INDEX.md](PRACTICAL-INDEX.md) for links to all 13 practicals.
 
 ## Screenshots
 
-Run each practical and save a real screenshot in its `output` folder. Do not use placeholder images as practical output.
+Screenshots will be added to each practical folder after the practicals are run and checked.

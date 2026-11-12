@@ -16,4 +16,4 @@ cd ..
 
 **Output:** A MyPortfolio folder with images and css subfolders. The terminal shows the current folder.
 
-**Screenshot:** Capture your Terminal after running the commands and save it as `output.png` in this practical's `output` folder.
+**Screenshot:** Attach your Terminal screenshot directly to this practical folder when ready.
