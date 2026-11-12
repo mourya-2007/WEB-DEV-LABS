@@ -7,5 +7,3 @@
 **Program:** Open [index.html](index.html) and [style.css](style.css).
 
 **Output:** A project gallery with a featured card and responsive columns.
-
-**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.
