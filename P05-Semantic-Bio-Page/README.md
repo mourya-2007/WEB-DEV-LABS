@@ -7,5 +7,3 @@
 **Program:** Open [index.html](index.html).
 
 **Output:** A bio page with About Me, Education and Interests sections.
-
-**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.
