@@ -8,4 +8,3 @@
 
 **Output:** A sticky navbar and two overlapping cards.
 
-**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.
