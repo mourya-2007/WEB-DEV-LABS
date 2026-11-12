@@ -1,0 +1,6 @@
+body { margin: 0; font-family: Arial, sans-serif; color: #222; }
+header, footer { padding: 20px; text-align: center; background: #e1eadf; }
+nav { display: flex; justify-content: center; flex-wrap: wrap; gap: 18px; }
+nav a { color: #222; text-decoration: none; }
+main { max-width: 800px; margin: auto; padding: 20px; }
+section { padding: 15px 0; border-bottom: 1px solid #ddd; }
