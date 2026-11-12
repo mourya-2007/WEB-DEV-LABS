@@ -7,5 +7,3 @@
 **Program:** Open [index.html](index.html).
 
 **Output:** A basic personal portfolio page with all four sections.
-
-**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.
