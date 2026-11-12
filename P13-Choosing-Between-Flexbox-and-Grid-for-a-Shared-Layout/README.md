@@ -7,5 +7,3 @@
 **Program:** Open [index.html](index.html) and [style.css](style.css).
 
 **Output:** One page showing both layout methods.
-
-**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.
