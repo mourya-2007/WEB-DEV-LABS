@@ -14,5 +14,3 @@ git push -u origin feature/my-change
 **Steps:** Open GitHub, create a Pull Request from `feature/my-change` into `main`, review the changes and merge it.
 
 **Output:** A feature branch and a merged Pull Request.
-
-**Screenshot:** Attach your Pull Request screenshot directly to this practical folder when ready.
