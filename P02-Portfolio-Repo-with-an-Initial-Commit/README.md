@@ -18,7 +18,3 @@ git push -u origin main
 ```
 
 **Output:** Git shows the first commit and the project files appear in GitHub.
-
-**Note:** Replace the URL with your own repository URL. Do not run `git init` again inside an already cloned repository.
-
-**Screenshot:** Attach your screenshot of the commit or GitHub repository directly to this practical folder when ready.
