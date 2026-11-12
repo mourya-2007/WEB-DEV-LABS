@@ -7,5 +7,3 @@
 **Program:** Open [index.html](index.html), [style.css](style.css) and [script.js](script.js).
 
 **Output:** The layout fits a desktop and a small mobile screen.
-
-**Screenshot:** Attach desktop and mobile browser screenshots directly to this practical folder when ready.
