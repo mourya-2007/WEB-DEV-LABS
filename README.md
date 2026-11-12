@@ -8,25 +8,20 @@ Web Development Lab assignment containing 13 practicals in the same order as the
 - **Module 2 — HTML & CSS foundations:** P05–P09
 - **Module 3 — CSS layout systems:** P10–P13
 
-## Folder structure
+## Practical coverage
 
-Each practical has its own descriptive folder directly inside the repository. Open the practical folder to find its README and program files.
-
-For example:
-
-```text
-P12-Portfolio-Projects-Grid-with-Advanced-CSS-Grid/
-├── README.md
-├── index.html
-└── style.css
-```
-
-P01–P04 contain Terminal and Git instructions rather than HTML/CSS programs. P05–P13 contain the files needed for their respective web development practicals.
-
-## Practical index
-
-See [PRACTICAL-INDEX.md](PRACTICAL-INDEX.md) for links to all 13 practicals.
-
-## Screenshots
-
-Practical screenshots are kept directly inside their corresponding practical folders. No separate `output` folder is required.
+| Practical | Work included |
+|---|---|
+| P1 | Terminal navigation and folder setup guide |
+| P2 | Git repository and initial commit workflow |
+| P3 | Feature branch and pull request workflow |
+| P4 | README and version tags |
+| P5 | Semantic bio page |
+| P6 | Portfolio page structure |
+| P7 | CSS custom properties and typography |
+| P8 | Sticky navigation and overlapping positioned cards |
+| P9 | Responsive navigation and Flexbox |
+| P10 | Flexbox header, navigation and footer |
+| P11 | Three-column newspaper layout with CSS Grid |
+| P12 | Responsive projects grid |
+| P13 | Flexbox vs Grid comparison |
