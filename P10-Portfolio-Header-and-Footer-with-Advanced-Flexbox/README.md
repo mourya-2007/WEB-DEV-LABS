@@ -7,5 +7,3 @@
 **Program:** Open [index.html](index.html) and [style.css](style.css).
 
 **Output:** Header and footer content aligned neatly.
-
-**Screenshot:** Attach your browser screenshot directly to this practical folder when ready.
