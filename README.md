@@ -1,33 +1,31 @@
-# WEB-DEV-LABS — Web Development Practicals
+# WEB-DEV-LABS
 
-This repository contains the 13 practicals from the Web Development Lab assignment. The work is arranged in the same sequence and module grouping as the assignment sheet.
+Web Development Lab assignment — 13 simple practicals in the same order as the instructor's sheet.
 
 ## Modules
 
-- [Module 1 — Terminal, Git & GitHub (P01–P04)](Module-1/README.md)
-- [Module 2 — HTML & CSS foundations (P05–P09)](Module-2/README.md)
-- [Module 3 — CSS layout systems (P10–P13)](Module-3/README.md)
+- **Module 1 — Terminal, Git & GitHub:** P01–P04
+- **Module 2 — HTML & CSS foundations:** P05–P09
+- **Module 3 — CSS layout systems:** P10–P13
 
-## Practical list
+## Folder structure
 
-| Practical | Topic |
-|---|---|
-| P01 | Project folder and terminal navigation |
-| P02 | Portfolio repo with an initial commit |
-| P03 | Feature-branch Git workflow |
-| P04 | GitHub README and version tags |
-| P05 | Semantic bio page |
-| P06 | Full portfolio page structure in semantic HTML |
-| P07 | Design tokens and typography system in CSS |
-| P08 | Sticky navbar and card overlay using CSS positioning |
-| P09 | Responsive navbar and card grid using Flexbox |
-| P10 | Portfolio header and footer with advanced Flexbox |
-| P11 | Newspaper-style three-column layout with CSS Grid |
-| P12 | Portfolio projects grid with advanced CSS Grid |
-| P13 | Choosing between Flexbox and Grid for a shared layout |
+Each practical has its own descriptive folder at the repository root. The program files are directly inside the practical folder. For example:
+
+```text
+P12-Portfolio-Projects-Grid-with-Advanced-CSS-Grid/
+├── README.md
+├── index.html
+├── style.css
+└── output/
+```
+
+Practical folders use the same pattern. P01–P04 contain Terminal/Git instructions instead of HTML/CSS programs. P09 also includes `script.js`.
+
+## Practical index
+
+See [PRACTICAL-INDEX.md](PRACTICAL-INDEX.md) for links to all 13 practicals.
 
 ## Screenshots
 
-Each practical has an `output` folder. Run the practical and save your own screenshot there. For responsive practicals, include both desktop and mobile screenshots.
-
-The examples are intentionally basic and use plain HTML, CSS and JavaScript so they are easy to run and explain.
+Run each practical and save a real screenshot in its `output` folder. Do not use placeholder images as practical output.
