@@ -24,7 +24,3 @@ P01–P04 contain Terminal/Git instructions instead of HTML/CSS programs. P09 al
 ## Practical index
 
 See [PRACTICAL-INDEX.md](PRACTICAL-INDEX.md) for links to all 13 practicals.
-
-## Screenshots
-
-Screenshots will be added to each practical folder after the practicals are run and checked.
